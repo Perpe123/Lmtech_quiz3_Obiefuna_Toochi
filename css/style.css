@@ -54,19 +54,33 @@ table {
 
 
 
-.header-top{
-	background-color: #E23C3C;
-}
 
 .header-bottom{
 	background-color: #F4F5F4;
+	height: 60px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+
 }
 
-.header-top{
-	display: flex;
+.header-bottom p{
+	font-size: 30px;
+	font-weight: 400;
 }
 
-.header-left img{
+.property-img{
 	height: 30px;
+}
+
+li a{
+	color: white;
 	
+}
+
+input{
+	gap: 20px;
+}
+
+button{
+	background-color: #DC3545;
 }
