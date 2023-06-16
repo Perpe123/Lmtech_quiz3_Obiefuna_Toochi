@@ -51,3 +51,22 @@ table {
 
 
 /* Write your css below here */
+
+
+
+.header-top{
+	background-color: #E23C3C;
+}
+
+.header-bottom{
+	background-color: #F4F5F4;
+}
+
+.header-top{
+	display: flex;
+}
+
+.header-left img{
+	height: 30px;
+	
+}
