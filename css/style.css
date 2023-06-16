@@ -51,3 +51,36 @@ table {
 
 
 /* Write your css below here */
+
+
+
+
+.header-bottom{
+	background-color: #F4F5F4;
+	height: 60px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+
+}
+
+.header-bottom p{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.property-img{
+	height: 30px;
+}
+
+li a{
+	color: white;
+	
+}
+
+input{
+	gap: 20px;
+}
+
+button{
+	background-color: #DC3545;
+}
